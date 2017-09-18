@@ -1,6 +1,0 @@
-Vincent sera le Père Noël de Gaetan.
-Celine sera le Père Noël de Pierre.
-Pierre sera le Père Noël de Vincent.
-Tom sera le Père Noël de Baptiste.
-Gaetan sera le Père Noël de Tom.
-Baptiste sera le Père Noël de Celine.

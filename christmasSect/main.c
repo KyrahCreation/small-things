@@ -5,7 +5,7 @@
 ** Login   <tom@kyrah.fr>
 ** 
 ** Started on  Wed Sep 13 17:21:09 2017 Tom Partouche
-** Last update Wed Sep 13 18:44:32 2017 Tom Partouche
+** Last update Mon Sep 18 15:07:29 2017 Tom Partouche
 */
 
 #include <stdio.h>
@@ -30,7 +30,7 @@ void	main()
 
   resultat = fopen("resultat.txt", "w");
   
-  int	i, g, r, j;
+  int	i, g, r;
   int	n = 6;
   int	randnbr = 0;
   srand(time(NULL));
